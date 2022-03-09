@@ -1,7 +1,7 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 
 local searched = {3423423}
-local dumpsters = {1709954128, 2669299372, 1366469466, 1131941737,}
+local dumpsters = {1709954128, 2669299372, 1366469466, 1131941737, 218085040, 666561306,} -- add dumpster and container
 local canSearch = true
 
 RegisterNetEvent('qb-acunitsearch:client:searchaircon', function()
